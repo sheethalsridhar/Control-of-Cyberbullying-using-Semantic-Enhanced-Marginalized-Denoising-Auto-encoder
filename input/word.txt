@@ -1,0 +1,3 @@
+cat:ILLEGAL WORDSword:killu
+cat:RESTRICTED WORDSword:pobey
+ILLEGAL WORDSpora
