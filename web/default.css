@@ -1,0 +1,319 @@
+/*
+Design by CSS Templates For Free
+http://www.csstemplatesforfree.com
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+body {
+	margin: 0;
+	padding: 0;
+	background:white repeat;
+	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+        color: #ff9933;
+}
+
+input, textarea {
+	background: #A4E4F5;
+	border: 1px solid #FFFFFF;
+	font: bold 13px Arial, Helvetica, sans-serif;
+	color: #0F5B96;
+        overflow: hidden;
+}
+
+h1, h2, h3, p, ol, ul {
+	margin-top: 0;
+}
+
+h1, h2, h3 {
+	
+}
+
+h1, h2 {
+	
+	font-weight: normal;
+}
+
+h1 {
+	letter-spacing: -2px;
+	font-size: 2.4em;
+}
+
+h2 {
+	letter-spacing: -1px;
+	font-size: 1.8em;
+}
+
+p, ol, ul {
+	margin-bottom: 1.5em;
+	line-height: 130%;
+}
+
+a {
+	color: #FFFFFF;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+img.left {
+	float: left;
+	margin: 4px 20px 0 0;
+}
+
+img.right {
+	float: left;
+	margin: 4px 0 0 20px;
+}
+
+hr {
+	display: none;
+}
+
+/* Header */
+
+#header {
+	height: 150px;
+	background: url(images/img02.jpg) no-repeat center top;
+	
+}
+
+#logo {
+	float: center;
+        color: #ffffff;
+}
+
+#logo h1, #logo p {
+
+	
+	line-height: normal;
+}
+
+#logo h1 {
+   
+	padding: 47px 0 0 60px;
+	font-size: 3em;
+	
+}
+
+#logo p {
+	padding: 69px 0 0 7px;
+	letter-spacing: -1px;
+	font-size: 1.4em;
+	color: #199DD2;
+}
+
+#logo a {
+	text-decoration: none;
+	color: #62D6F5;
+}
+
+#menu {
+	float: right;
+}
+
+#menu ul {
+	margin: 0;
+	padding: 60px 20px 0 0;
+	list-style: none;
+}
+
+#menu li {
+	display: inline;
+}
+
+#menu a {
+	float: left;
+	width: 120px;
+	height: 56px;
+	margin: 0 0 0 2px;
+	padding: 9px 0 0 0;
+	background: #1B97CE url(images/img03.gif) no-repeat;
+	text-decoration: none;
+	text-align: center;
+	letter-spacing: -1px;
+	font-size: 1.1em;
+	font-weight: bold;
+	color: #000000;
+}
+
+#menu a:hover, #menu .current_page_item a {
+	background: #26BADF url(images/img04.gif) no-repeat;
+}
+
+/* Page */
+
+#page {
+	width: 960px;
+	margin: 0 auto;
+}
+
+/* Content */
+
+#content {
+	float: left;
+	width: 530px;
+	padding: 0 0 0 250px;
+        text-decoration-color: navy;
+}
+#content1 {
+	float: left;
+	width: 530px;
+	padding: 0 0 0 25px;
+        text-decoration-color: navy;
+}
+
+.post {
+	margin-bottom: 5px;
+	
+	color: navy;
+}
+
+.post a {
+	color: #A4E4F5;
+}
+
+.post a:hover {
+	color: navy;
+}
+
+.post .title {
+	margin: 0;
+	padding: 30px 30px 0 30px;
+}
+
+.post .title a {
+	text-decoration: none;
+	color: navy;
+}
+
+.post .byline {
+	margin: 0;
+	padding: 0 30px;
+}
+
+.post .entry {
+	padding: 20px 30px 10px 30px;
+}
+
+.post .links {
+	margin: 0;
+	padding: 10px 30px 35px 30px;
+	background: url(images/img06.gif) repeat-x left bottom;
+	border-top: 1px solid #2872A6;
+}
+
+.post .links a {
+	padding-left: 10px;
+	background: url(images/img08.gif) no-repeat left center;
+	text-decoration: none;
+	font-weight: bold;
+	color: #0A416B;
+}
+
+.post .links a:hover {
+	color: #FFFFFF;
+}
+
+/* Sidebars */
+
+.sidebar {
+	float: left;
+	width: 200px;
+}
+
+.sidebar ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	line-height: normal;
+}
+
+.sidebar li {
+}
+
+.sidebar li ul {
+}
+
+.sidebar li li {
+	padding: 6px 0 6px 10px;
+	background: url(images/img08.gif) no-repeat 0 12px;
+	border-bottom: 1px solid #2872A6;
+}
+
+.sidebar li li a {
+	text-decoration: none;
+	color: #C9ECF5;
+}
+
+.sidebar li li a:hover {
+	color: #FFFFFF;
+}
+
+.sidebar li h2 {
+	padding-top: 20px;
+	color: #FFFFFF;
+}
+
+/* Left Sidebar */
+
+#leftbar {
+}
+
+/* Right Sidebar */
+
+#rightbar {
+	padding: 0 0 0 25px;
+}
+
+/* Search */
+
+#searchform {
+	padding-top: 20px;
+	text-align: right;
+}
+
+#searchform br {
+	display: none;
+}
+
+#searchform input {
+	margin-bottom: 5px;
+}
+
+#searchform #s {
+	width: 190px;
+}
+
+
+
+
+#calendar_wrap tbody td a {
+	font-weight: bold;
+}
+
+/* Footer */
+
+#priya
+{
+    padding:0 0 0 250px;
+}
+#footer {
+
+	clear: both;
+	padding: 10px 0;
+	background: #083253;
+}
+
+#footer p {
+	text-align: center;
+	font-size: smaller;
+	color: #0F5B96;
+}
+
+#footer a {
+	color: #0F5B96;
+}

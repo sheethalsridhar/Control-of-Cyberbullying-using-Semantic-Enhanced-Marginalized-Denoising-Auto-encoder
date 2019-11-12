@@ -1,0 +1,52 @@
+
+.cssmenu {
+	width: 1150px;
+	height: 30px;
+	margin: 30;
+	padding: 0px 150px 0px 0px;
+	background: #000000 url(images/bg-bubplastic.gif) top left repeat-x;
+}
+.cssmenu ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.cssmenu ul li {
+	float: left;
+	margin: 0;
+	padding: 0;
+	background: transparent url(images/bg-bubplastic-button.gif) top left no-repeat;
+}
+
+.cssmenu ul li a {
+	display: block;
+	height: 30px;
+	padding-left: 45px;
+	float: left;
+	
+	font-family: 'Helvetica Neue',helvetica,'microsoft sans serif',arial,sans-serif;
+	font-size: 140%;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.cssmenu ul li a span {
+	display: block;
+	float: left;
+	height: 22px;
+	padding-top: 5px;
+	padding-right: 35px;
+	background: transparent url(images/bg-bubplastic-button.gif) top right no-repeat;
+	cursor: pointer;
+}
+
+
+.cssmenu ul li a:hover,
+.cssmenu ul li.active a {
+/*	background: transparent url(images/bg-bubplastic-h-blue.gif) top left no-repeat;*/
+}
+.cssmenu ul li a:hover span,
+.cssmenu ul li.active a span {
+/*	background: transparent url(images/bg-bubplastic-h-blue.gif) top right no-repeat;*/
+}
+
