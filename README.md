@@ -1,4 +1,4 @@
-# Control-of-Cyberbullying-using-Semantic-Enhanced-Marginalized-Denoising-Auto-encoder
+# Control-of-Cyberbullying-using-Semantic-Enhanced-Marginalized-Denoising-Auto-encoder(MySQL, Apache Server & Java) 
 Created an Online Social Network that is safe from textual based cyberbullying by monitoring the activities of the user and blocking bullying posts from the social media using deep learning model smSDA. 
 
 ##################################################################################################################
