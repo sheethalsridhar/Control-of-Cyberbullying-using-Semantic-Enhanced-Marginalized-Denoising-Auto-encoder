@@ -1,5 +1,8 @@
 # Control-of-Cyberbullying-using-Semantic-Enhanced-Marginalized-Denoising-Auto-encoder(MySQL, Apache Server & Java) 
-Created an Online Social Network that is safe from textual based cyberbullying by monitoring the activities of the user and blocking bullying posts from the social media using deep learning model smSDA. 
+•	Developed an Online Social Network that is safe from textual based cyberbullying by monitoring the activities of the users.
+
+•	Constructed a Cyberbullying detection model that will detect and block bullying posts from the social media using the deep learning method smSDA.
+
 
 ##################################################################################################################
 Download the NetBeans 8.0.1 version and start the NetBeans IDE. 
